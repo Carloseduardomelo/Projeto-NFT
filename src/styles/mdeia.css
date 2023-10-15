@@ -28,7 +28,7 @@
         width: 25%;
     }
 }
-@media (max-width: 19850px) and (min-width: 1750px ){
+@media (max-width: 2050px) and (min-width: 1750px ){
     main{
         width: 20%;
     }
