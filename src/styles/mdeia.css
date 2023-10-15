@@ -1,0 +1,52 @@
+@media (max-width: 700px) and (min-width:560px ){
+    main{
+        width: 55%;
+    }
+}
+@media (max-width: 850px) and (min-width:700px ){
+    main{
+        width: 50%;
+    }
+}
+@media (max-width: 1000px) and (min-width: 850px ){
+    main{
+        width: 40%;
+    }
+}
+@media (max-width: 1250px) and (min-width: 1000px ){
+    main{
+        width: 35%;
+    }
+}
+@media (max-width: 1450px) and (min-width: 1250px ){
+    main{
+        width: 30%;
+    }
+}
+@media (max-width: 1750px) and (min-width: 1450px ){
+    main{
+        width: 25%;
+    }
+}
+@media (max-width: 19750px) and (min-width: 1750px ){
+    main{
+        width: 15%;
+    }
+    #title{
+        font-size: 27px;
+
+    }
+    #descricao-paragrafo{
+        font-size: 18px;
+    }
+    #eth{
+        font-size: 20px;
+    }
+    
+    #left{
+        font-size: 20px;
+    }
+    #pessoa p{
+        font-size: 20px;
+    }
+}
